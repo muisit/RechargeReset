@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RechargeReset</string>
+    <string name="title_activity_reset_charger">ResetChargerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="resetpowercharger">Power Reset Charger nu geinstalleerd</string>
+    <string name="channel_name">RechargeReset</string>
+    <string name="channel_description">Notifications for the RechargeReset tool</string>
+
+</resources>
